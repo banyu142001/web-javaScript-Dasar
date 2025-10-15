@@ -118,8 +118,20 @@
  */
 
 /** ARRAY
- *   Adalah sebuah tipe data yang digunakan untuk menyimpan kumpulan  item (nilai)
- *   dalam satu variabel
- *
- *
+    Adalah sebuah tipe data yang digunakan untuk menyimpan kumpulan  item (nilai)
+    dalam satu variabel
+ 
+       let namaDosen = ["Sandika", "Dea Afrizal", "Bayu"];
+    * push() untuk manambahkan nilai di dalam array
+        namaDosen.push("Yunita", "Aldi", "Egan");
+    * sift() untuk menghapus data  array index ke 0
+        namaDosen.shift();
+   *  pop() untuk menghapus data array index terakhir
+        namaDosen.pop();
+        console.log(namaDosen);
  */
+
+/** LOOPING / PERULANGAN
+    
+ * 
+*/
