@@ -140,6 +140,17 @@
 
  * WHILE LOOP
 
+    // nilai awal
+    let nilaiAwal = 1;
+    // kondisi
+    while (nilaiAwal <= 10) {
+    // aksi
+    console.log("hello " + nilaiAwal + " kali");
+
+    //   increment / decrement
+    nilaiAwal++;
+    }
+
 
 
 
@@ -151,13 +162,3 @@
 
 
 */
-
-// let noAngkot = 1;
-
-// for (noAngkot; noAngkot <= 10; noAngkot++) {
-//   if (noAngkot != 9) {
-//     console.log("Angkot no " + noAngkot + " Sedang beroperasi");
-//   } else {
-//     console.log("Angkot no " + noAngkot + " Rusak");
-//   }
-// }
