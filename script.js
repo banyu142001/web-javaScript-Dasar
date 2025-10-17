@@ -133,5 +133,31 @@
 
 /** LOOPING / PERULANGAN
     
- * 
+ *  FOR LOOP
+    for (let i = 1; i <= 5; i++) {
+    console.log("Perulangan ke-" + i);
+    }
+
+ * WHILE LOOP
+
+
+
+
+    let namaGuru = ["bayu", "egan", "Aldi"];
+    // JAVASCRIPT ES 6
+    for (const nama of namaGuru) {
+    console.log("hello " + nama);
+    }
+
+
 */
+
+// let noAngkot = 1;
+
+// for (noAngkot; noAngkot <= 10; noAngkot++) {
+//   if (noAngkot != 9) {
+//     console.log("Angkot no " + noAngkot + " Sedang beroperasi");
+//   } else {
+//     console.log("Angkot no " + noAngkot + " Rusak");
+//   }
+// }
